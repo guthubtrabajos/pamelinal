@@ -1,0 +1,19 @@
+{"cursos":[
+        {
+            "id_curso":"C001",
+            "nombre":"OFIMATICA",
+            "n_horas":"4H"  
+        },
+        {
+            "id_curso":"C002",
+            "nombre":"PROGRAMACION",
+            "n_horas":"6h"  
+        },
+                {
+            "id_curso":"C003",
+            "nombre":"INGLES",
+            "n_horas":"3h"  
+        }
+
+    ]
+}
